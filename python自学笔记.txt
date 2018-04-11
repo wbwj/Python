@@ -1,33 +1,36 @@
 Python
 
-ÊÊÓÃÓÚWindows/Linux/macosµÈ
-Ê¹ÓÃÉÙÁ¿´úÂë£¨ÉÙ1/5×óÓÒ´úÂëÁ¿Ïà½ÏÓÚÆäËûÓïÑÔ£©
+é€‚ç”¨äºŽWindows/Linux/macosç­‰
+ä½¿ç”¨å°‘é‡ä»£ç ï¼ˆå°‘1/5å·¦å³ä»£ç é‡ç›¸è¾ƒäºŽå…¶ä»–è¯­è¨€ï¼‰
 
-Ò»°ãÓÃÓÚ ÔÆ¼ÆËã/Web/²Ù×÷ÏµÍ³µÈ
+ä¸€èˆ¬ç”¨äºŽ äº‘è®¡ç®—/Web/æ“ä½œç³»ç»Ÿç­‰
 
-ÎÒËùÐèÒªÑ§Ï°µÄ£º
-	Python3ËùÓÐ³£ÓÃÓï·¨
-	ÃæÏò¶ÔÏóµÄ±à³ÌÊµÏÖ
-	Ä£¿é»¯±à³Ì
-	ÓÎÏ·±à³Ì
-	¼ÆËã»ú·ÂÕæµÈ
+æˆ‘æ‰€éœ€è¦å­¦ä¹ çš„ï¼š
+	Python3æ‰€æœ‰å¸¸ç”¨è¯­æ³•
+	é¢å‘å¯¹è±¡çš„ç¼–ç¨‹å®žçŽ°
+	æ¨¡å—åŒ–ç¼–ç¨‹
+	æ¸¸æˆç¼–ç¨‹
+	è®¡ç®—æœºä»¿çœŸç­‰
 
-£¨https://www.bilibili.com/video/av4050443/?p=11£©£¨Ê¹ÓÃPython3.6.5£©
-ÎÒ½«Ê¹ÓÃPython IDLEÒÔ¼°PyCharmÀ´½øÐÐPython´úÂëµÄ»ù´¡ÖªÊ¶Ñ§Ï°ÒÔ¼°µ÷ÊÔ´úÂë(ÉÏÃæÊÇÎÒÑ§Ï°PythonÊ±¿´µÄÊÓÆµ½Ì³Ì)
+ï¼ˆhttps://www.bilibili.com/video/av4050443/?p=11ï¼‰ï¼ˆä½¿ç”¨Python3.6.5ï¼‰
+æˆ‘å°†ä½¿ç”¨Python IDLEä»¥åŠPyCharmæ¥è¿›è¡ŒPythonä»£ç çš„åŸºç¡€çŸ¥è¯†å­¦ä¹ ä»¥åŠè°ƒè¯•ä»£ç (ä¸Šé¢æ˜¯æˆ‘å­¦ä¹ Pythonæ—¶çœ‹çš„è§†é¢‘æ•™ç¨‹)
 
 
-ÆäÖÐÎÒÃÇÊ¹ÓÃ # ½øÐÐµ¥ÐÐ×¢ÊÍÊ¹ÓÃ
-             ''' ½øÐÐ¶àÐÐ×¢ÊÍÊ¹ÓÃ
+å…¶ä¸­æˆ‘ä»¬ä½¿ç”¨ # è¿›è¡Œå•è¡Œæ³¨é‡Šä½¿ç”¨
+             ''' è¿›è¡Œå¤šè¡Œæ³¨é‡Šä½¿ç”¨
 
-PythonÓïÑÔÖÐ´úÂë ¶ÔÆë ¾ÍÏàµ±ÓÚCÓïÑÔÖÐµÄ { } £¨Õâ¸öÔÚPython³ÌÐò±àÐ´Ê±·Ç³£ÖØÒª£¡£¡£¡£¡£¡£¡£¡£¡£©
+Pythonè¯­è¨€ä¸­ä»£ç  å¯¹é½ å°±ç›¸å½“äºŽCè¯­è¨€ä¸­çš„ { } ï¼ˆè¿™ä¸ªåœ¨Pythonç¨‹åºç¼–å†™æ—¶éžå¸¸é‡è¦ï¼ï¼ï¼ï¼ï¼ï¼ï¼ï¼ï¼‰
 
-£¨1£©Ê¹ÓÃ±äÁ¿Ç°£¬±ØÐë¶ÔÆäÏÈ¸³Öµ
-£¨2£©±äÁ¿Ãû¿ÉÒÔ°üÀ¨×ÖÄ¸¡¢Êý×Ö¡¢ÏÂ»®Ïß£¬µ«ÊÇ±äÁ¿Ãû²»¿ÉÒÔ×ÖÄ¸¿ªÍ·
-£¨3£©±àÐ´´úÂëÊ±¸ø±äÁ¿Ò»¸ö×¨ÒµÐ´µÄÃû´Ê
+ï¼ˆ1ï¼‰ä½¿ç”¨å˜é‡å‰ï¼Œå¿…é¡»å¯¹å…¶å…ˆèµ‹å€¼
+ï¼ˆ2ï¼‰å˜é‡åå¯ä»¥åŒ…æ‹¬å­—æ¯ã€æ•°å­—ã€ä¸‹åˆ’çº¿ï¼Œä½†æ˜¯å˜é‡åä¸å¯ä»¥å­—æ¯å¼€å¤´
+ï¼ˆ3ï¼‰ç¼–å†™ä»£ç æ—¶ç»™å˜é‡ä¸€ä¸ªä¸“ä¸šå†™çš„åè¯
 
-×ªÒå×Ö·û£º'Let\'s go!  Êä³öµÄÊÇ×Ö·û´®Let
-Ô­Ê¼×Ö·û£º
-¶àÐÐ×Ö·û´®£º
+è½¬ä¹‰å­—ç¬¦ï¼š \
+åŽŸå§‹å­—ç¬¦ï¼š r +åŠ å­—ç¬¦ä¸²
+å¤šè¡Œå­—ç¬¦ä¸²ï¼š''' Â  Â  ''' æˆ– â€œâ€œâ€œ    â€â€â€
+
+
+
 
 
 
