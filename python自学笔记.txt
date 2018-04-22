@@ -1,4 +1,4 @@
-Python
+﻿Python
 
 适用于Windows/Linux/macos等
 使用少量代码（少1/5左右代码量相较于其他语言）
@@ -104,5 +104,24 @@ dir(list)  可以列出列表中所有指令
 	    停止背景音乐 最好淡出
 
 
+
+
+     可以直接使用Anaconda中所有的Python库
+  （1）不需要配置Python环境
+  （2）集成很多的Packages，省去下载的复杂/麻烦
+  （3）Packages，conda一件解决
+  （4）可以配置Python2或3的环境，可随意切换，互不干扰，具有很高的兼容性
+
+打开Anaconda Prompt
+  可以输入conda指令进行操作
+  conda list 表示查看所有的可用的Python库
+  conda install name （name表示名字）  
+
+配置环境等：
+  conda create --name py36 python=3 (py36是环境名字，最后是我们需要的版本)
+  activate py36   （激活建立的环境）
+
+打开Anaconda Navigator    （这是一个图形界面可以查看仙子啊环境有的依赖库）
+  
 
 
